@@ -1,0 +1,13 @@
+{
+    "timestamp": "20251116-212231-483540",
+    "entry": {
+        "timestamp": "2025-11-16T21:22:31.483531",
+        "tool": "compute_urgency",
+        "input": {
+            "due_date": "18 November 2025"
+        },
+        "output": {
+            "urgency_level": "low"
+        }
+    }
+}

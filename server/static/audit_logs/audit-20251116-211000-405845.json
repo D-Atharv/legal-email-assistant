@@ -1,0 +1,14 @@
+{
+    "timestamp": "20251116-211000-405845",
+    "entry": {
+        "timestamp": "2025-11-16T21:10:00.405839",
+        "tool": "get_clause",
+        "input": {
+            "clause_id": "9.1"
+        },
+        "output": {
+            "error": true,
+            "message": "tool_get_clause() missing 1 required positional argument: 'contract_text'"
+        }
+    }
+}

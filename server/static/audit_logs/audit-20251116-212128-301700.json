@@ -1,0 +1,30 @@
+{
+    "timestamp": "20251116-212128-301700",
+    "entry": {
+        "event": "draft_complete",
+        "analysis": {
+            "intent": "legal_advice_request",
+            "primary_topic": "termination_for_cause",
+            "parties": {
+                "client": "Acme Technologies Pvt. Ltd.",
+                "counterparty": "Brightwave Solutions LLP"
+            },
+            "agreement_reference": {
+                "type": "Master Services Agreement",
+                "date": "10 March 2023"
+            },
+            "questions": [
+                "Are we contractually entitled to terminate for cause due to repeated delays?",
+                "What is the minimum notice period required?"
+            ],
+            "requested_due_date": "18 November 2025",
+            "urgency_level": "medium"
+        },
+        "clauses_used": {
+            "9.1": "Either Party may terminate this Agreement for cause upon thirty (30) days’ written notice if the other Party commits a material breach.",
+            "9.2": "Repeated failure to meet delivery timelines constitutes a material breach. Clause 10 – Notice",
+            "10.2": "For termination, minimum thirty (30) days’ prior written notice is required."
+        },
+        "draft_final": "Dear Ms. Sharma,\n\nThank you for your email regarding the Master Services Agreement dated 10 March 2023 between Acme Technologies Pvt. Ltd. and Brightwave Solutions LLP.\n\nOn its face, and based on the excerpted contract language you provided, Clause 9.2 states that \"Repeated failure to meet delivery timelines constitutes a material breach.\" Accordingly, repeated delays may constitute a material breach that could support termination for cause. This view is based solely on the clause text supplied and does not consider any additional facts or correspondence.\n\nWith respect to notice, Clause 9.1 provides that termination for cause requires thirty (30) days' written notice, and Clause 10.2 confirms that, for termination, a minimum of thirty (30) days' prior written notice is required. Accordingly, on the face of the contract, a minimum of 30 days' prior written notice would be required.\n\nPlease note that the foregoing is an initial view derived from the contract excerpt you supplied. We have not reviewed any communications, performance records, statements of work, or other evidence of delay. If you would like, we can (a) review underlying correspondence and delivery records, and (b) prepare a draft termination notice that is tailored to the facts and that cites the relevant contract clauses (including Clauses 9.1, 9.2 and 10.2).\n\nFor reference, short extracts from the supplied clauses are shown below:\n\nClause 9.2: Repeated failure to meet delivery timelines constitutes a material breach. Clause 10 – Notice\n\nClause 9.1: Either Party may terminate this Agreement for cause upon thirty (30) days’ written notice if the other Party commits a material breach.\n\nClause 10.2: For termination, minimum thirty (30) days’ prior written notice is required.\n\nFull clause texts should be attached to any formal notice prepared.\n\nRegards,\nYour Legal Team"
+    }
+}

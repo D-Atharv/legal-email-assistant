@@ -1,0 +1,22 @@
+{
+    "timestamp": "20251116-212227-031312",
+    "entry": {
+        "timestamp": "2025-11-16T21:22:27.031305",
+        "tool": "parse_email",
+        "input": {
+            "email_text": "Subject: Termination of Services under MSA\nDear Counsel,\nWe refer to the Master Services Agreement dated 10 March 2023 between Acme\nTechnologies Pvt. Ltd. (“Acme”) and Brightwave Solutions LLP (“Brightwave”).\nDue to ongoing performance issues and repeated delays in delivery, we are considering\ntermination of the Agreement for cause with effect from 1 December 2025.\nPlease confirm:\n1. Whether we are contractually entitled to terminate for cause on the basis of repeated\ndelays in delivery;\n2. The minimum notice period required.\nWe would appreciate your advice by 18 November 2025.\nRegards,\nPriya Sharma\nLegal Manager, Acme Technologies Pvt. Ltd."
+        },
+        "output": {
+            "subject": "Termination of Services under MSA",
+            "greeting": "Dear Counsel,",
+            "body": "Dear Counsel,\nWe refer to the Master Services Agreement dated 10 March 2023 between Acme\nTechnologies Pvt. Ltd. (“Acme”) and Brightwave Solutions LLP (“Brightwave”).\nDue to ongoing performance issues and repeated delays in delivery, we are considering\ntermination of the Agreement for cause with effect from 1 December 2025.\nPlease confirm:\n1. Whether we are contractually entitled to terminate for cause on the basis of repeated\ndelays in delivery;",
+            "signature_text": "2. The minimum notice period required.\nWe would appreciate your advice by 18 November 2025.\nRegards,\nPriya Sharma\nLegal Manager, Acme Technologies Pvt. Ltd.",
+            "sender_name": "Priya Sharma",
+            "sender_role": "Legal Manager, Acme Technologies Pvt. Ltd.",
+            "questions": [
+                "Whether we are contractually entitled to terminate for cause on the basis of repeated",
+                "The minimum notice period required."
+            ]
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "timestamp": "20251116-212123-736897",
+    "entry": {
+        "timestamp": "2025-11-16T21:21:23.736890",
+        "tool": "get_clause",
+        "input": {
+            "contract_text": "Clause 9 – Termination for Cause\n9.1 Either Party may terminate this Agreement for cause upon thirty (30) days’ written\nnotice if the other Party commits a material breach.\n9.2 Repeated failure to meet delivery timelines constitutes a material breach.\nClause 10 – Notice\n10.1 All notices shall be given in writing and shall be effective upon receipt.\n10.2 For termination, minimum thirty (30) days’ prior written notice is required.",
+            "clause_id": "9.2"
+        },
+        "output": {
+            "clause_id": "9.2",
+            "clause_text": "Repeated failure to meet delivery timelines constitutes a material breach. Clause 10 – Notice"
+        }
+    }
+}

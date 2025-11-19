@@ -1,0 +1,14 @@
+{
+    "timestamp": "20251116-194915-444780",
+    "entry": {
+        "timestamp": "2025-11-16T19:49:15.444772",
+        "tool": "parse_email",
+        "input": {
+            "email_text": "Subject: Termination of Services under MSA\nDear Counsel,\nWe refer to the Master Services Agreement dated 10 March 2023 between Acme\nTechnologies Pvt. Ltd. (“Acme”) and Brightwave Solutions LLP (“Brightwave”).\nDue to ongoing performance issues and repeated delays in delivery, we are considering\ntermination of the Agreement for cause with effect from 1 December 2025.\nPlease confirm:\n1. Whether we are contractually entitled to terminate for cause on the basis of repeated\ndelays in delivery;\n2. The minimum notice period required.\nWe would appreciate your advice by 18 November 2025.\nRegards,\nPriya Sharma\nLegal Manager, Acme Technologies Pvt. Ltd."
+        },
+        "output": {
+            "error": true,
+            "message": "tool_parse_email() got an unexpected keyword argument 'email_text'"
+        }
+    }
+}
